@@ -32,3 +32,11 @@ Napp/src/main/java/com/plcoding/spotifycloneyt/exoplayer/FirebaseMusicSource.kt
 dapp/src/main/java/com/plcoding/spotifycloneyt/exoplayer/callbacks/MusicPlayerNotificationListener.kt,8\a\8aecc778c4faf17b349d8c7c5e95bdedcc24dc1d
 É
 Sapp/src/main/java/com/plcoding/spotifycloneyt/exoplayer/MusicNotificationManager.kt,b\2\b2289578754a8cf58215cdcea9a4e67ccdcad6d2
+ä
+Zapp/src/main/java/com/plcoding/spotifycloneyt/exoplayer/callbacks/MusicPlaybackPreparer.kt,f\f\ff83d5dca87965283daf4bf05553da7627d4e52b
+ç
+]app/src/main/java/com/plcoding/spotifycloneyt/exoplayer/callbacks/MusicPlayerEventListener.kt,f\1\f101739b1915f012ca409ac1988a26466dea7d27
+o
+?app/src/main/java/com/plcoding/spotifycloneyt/other/Resource.kt,9\b\9b2c890813898fa192ee9d33d4931b32efba0134
+l
+<app/src/main/java/com/plcoding/spotifycloneyt/other/Event.kt,a\f\af03bd7f45cb35703f14becae4149aad8db63c91
