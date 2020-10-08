@@ -40,3 +40,5 @@ o
 ?app/src/main/java/com/plcoding/spotifycloneyt/other/Resource.kt,9\b\9b2c890813898fa192ee9d33d4931b32efba0134
 l
 <app/src/main/java/com/plcoding/spotifycloneyt/other/Event.kt,a\f\af03bd7f45cb35703f14becae4149aad8db63c91
+
+Qapp/src/main/java/com/plcoding/spotifycloneyt/exoplayer/MusicServiceConnection.kt,7\3\733f69276fba3820ad79706bcc83b3b05b32fe78
