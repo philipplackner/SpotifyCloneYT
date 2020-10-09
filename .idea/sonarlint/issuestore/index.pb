@@ -5,8 +5,6 @@
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 P
  app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
-m
-=app/src/main/java/com/plcoding/spotifycloneyt/MainActivity.kt,2\b\2bc63588a44c215b7e7496d31f92b26077ca75f0
 p
 @app/src/main/java/com/plcoding/spotifycloneyt/other/Constants.kt,1\3\136a3f130cca3f09f1f40ebc5faa337ba647afaf
 :
@@ -16,8 +14,6 @@ z
 Japp/src/main/java/com/plcoding/spotifycloneyt/data/remote/MusicDatabase.kt,1\e\1e6f48843b1e2622c950f30b8caf81d17145b750
 m
 =app/src/main/java/com/plcoding/spotifycloneyt/di/AppModule.kt,d\4\d4ce99a9f773c8ca654636b8af7ce24da44045d2
-Y
-)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
 s
 Capp/src/main/java/com/plcoding/spotifycloneyt/SpotifyApplication.kt,7\9\7943178081f15727e76c35cfffa4a9fd9e1ce056
 q
@@ -42,3 +38,11 @@ l
 <app/src/main/java/com/plcoding/spotifycloneyt/other/Event.kt,a\f\af03bd7f45cb35703f14becae4149aad8db63c91
 
 Qapp/src/main/java/com/plcoding/spotifycloneyt/exoplayer/MusicServiceConnection.kt,7\3\733f69276fba3820ad79706bcc83b3b05b32fe78
+^
+.app/src/main/res/layout-land/fragment_song.xml,2\b\2b76f99441ab0b3d628c8a0a699fe33bdadfdfa5
+
+Qapp/src/main/java/com/plcoding/spotifycloneyt/exoplayer/PlaybackStateCompatExt.kt,e\b\ebd944a2a26ecf31be65a935142d0874e56f04f7
+p
+@app/src/main/java/com/plcoding/spotifycloneyt/ui/MainActivity.kt,9\a\9a6bf225af9333b926854f5ac562b6d7755b8691
+|
+Lapp/src/main/java/com/plcoding/spotifycloneyt/ui/viewmodels/MainViewModel.kt,4\3\438dfd7bd581faef0bd57fb487b8939f7bd91a68

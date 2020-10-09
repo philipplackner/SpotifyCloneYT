@@ -7,6 +7,7 @@ import android.support.v4.media.MediaBrowserCompat
 import android.support.v4.media.MediaDescriptionCompat
 import android.support.v4.media.MediaMetadataCompat
 import android.support.v4.media.session.MediaSessionCompat
+import android.util.Log
 import androidx.media.MediaBrowserServiceCompat
 import com.google.android.exoplayer2.Player
 import com.google.android.exoplayer2.SimpleExoPlayer

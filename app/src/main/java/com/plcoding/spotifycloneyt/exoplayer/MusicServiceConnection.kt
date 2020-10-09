@@ -7,6 +7,7 @@ import android.support.v4.media.MediaBrowserCompat
 import android.support.v4.media.MediaMetadataCompat
 import android.support.v4.media.session.MediaControllerCompat
 import android.support.v4.media.session.PlaybackStateCompat
+import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.plcoding.spotifycloneyt.other.Constants.NETWORK_ERROR
@@ -58,6 +59,7 @@ class MusicServiceConnection(
     ) : MediaBrowserCompat.ConnectionCallback() {
 
         override fun onConnected() {
+            Log.d("MusicServiceConnection", "CONNECTED")
             mediaController = MediaControllerCompat(context, mediaBrowser.sessionToken).apply {
                 registerCallback(MediaContollerCallback())
             }
@@ -65,12 +67,16 @@ class MusicServiceConnection(
         }
 
         override fun onConnectionSuspended() {
+            Log.d("MusicServiceConnection", "SUSPENDED")
+
             _isConnected.postValue(Event(Resource.error(
                 "The connection was suspended", false
             )))
         }
 
         override fun onConnectionFailed() {
+            Log.d("MusicServiceConnection", "FAILED")
+
             _isConnected.postValue(Event(Resource.error(
                 "Couldn't connect to media browser", false
             )))
