@@ -46,3 +46,15 @@ p
 @app/src/main/java/com/plcoding/spotifycloneyt/ui/MainActivity.kt,9\a\9a6bf225af9333b926854f5ac562b6d7755b8691
 |
 Lapp/src/main/java/com/plcoding/spotifycloneyt/ui/viewmodels/MainViewModel.kt,4\3\438dfd7bd581faef0bd57fb487b8939f7bd91a68
+Y
+)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
+Y
+)app/src/main/res/navigation/nav_graph.xml,b\a\baffce053da291d96fb575a09f2bbe9aaa9c4be9
+z
+Japp/src/main/java/com/plcoding/spotifycloneyt/ui/fragments/HomeFragment.kt,c\7\c7050b8a94a8ddc8fe51825bed0562d11eddedee
+y
+Iapp/src/main/java/com/plcoding/spotifycloneyt/adapters/BaseSongAdapter.kt,f\b\fb9251b0ab6edca4bdce49132c697fa42e160be9
+u
+Eapp/src/main/java/com/plcoding/spotifycloneyt/adapters/SongAdapter.kt,4\f\4fe29c0a2026935f431b21d9f18927d6221bada7
+z
+Japp/src/main/java/com/plcoding/spotifycloneyt/adapters/SwipeSongAdapter.kt,3\f\3f3377ffca96668d2c5e9e8ed6902b4ac729d73d
